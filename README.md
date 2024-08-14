@@ -9,7 +9,7 @@
 - Chú ý toàn bộ các tài khoản nếu biết mật khẩu phải reset ở quản trị
 - Chú ý: Nếu đặt tên virtual host khác thì cần sửa lại trong config_global.php dòng $global_config['my_domains'] theo tên virtual host
 
-### Demo các chức năng tại đây: 
+### Demo các chức năng tại đây: https://www.youtube.com/watch?v=Y9vfR0YeYPY
 
 ### Công việc của em Hải:
 ```
